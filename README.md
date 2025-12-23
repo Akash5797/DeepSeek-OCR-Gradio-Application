@@ -1,6 +1,3 @@
-Below is a **ready-to-use `README.md`** for your uploaded Jupyter Notebook.
-You can copy-paste this directly into a `README.md` file in your GitHub repository.
-
 ---
 
 # DeepSeek-OCR Gradio Application
@@ -131,6 +128,7 @@ This setup ensures:
 
 ## License
 This project is intended for **educational and research purposes**.
+
 
 
 
