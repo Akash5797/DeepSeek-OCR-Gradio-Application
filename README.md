@@ -75,7 +75,7 @@ This setup ensures:
 
 ---
 
-## ▶How to Run
+## How to Run
 
 1. Open the notebook:
 
@@ -128,6 +128,7 @@ This setup ensures:
 
 ## License
 This project is intended for **educational and research purposes**.
+
 
 
 
