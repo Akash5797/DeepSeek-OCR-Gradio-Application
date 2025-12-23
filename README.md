@@ -20,7 +20,7 @@ The app allows users to upload images and extract text efficiently using a large
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Python**
 * **DeepSeek-OCR**
@@ -131,6 +131,7 @@ This setup ensures:
 
 ## License
 This project is intended for **educational and research purposes**.
+
 
 
 
